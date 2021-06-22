@@ -1,7 +1,7 @@
 
 <img src="https://storage.googleapis.com/golden-wind/experts-club/capa-github.svg" />
 
-# Criando um framework de testes de API  com RESTASSURED, Java, Junit 5, Gradle
+# Criando um framework de testes de Interface com Selenium Webdriver, Java, Junit 5, Hamcrest e Gradle
 
 Nesse vídeo falamos sobre o que são frameworks de teste automatizado, quais os elementos uma boa framework de teste
 automatizado deve ter e como montar a sua framework de testes partindo da interface.
